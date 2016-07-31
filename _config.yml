@@ -1,4 +1,3 @@
-layout_spectrum: 0.8667880790308118
 typography_spectrum: 0.9708855259232223
 color:
   brandStrength: 0.042075979290530086
@@ -11,5 +10,10 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+layout_spectrum: 0.8667880790308118
 name: Ben Bostic
+navigation:
+  - name: About
+    url: 'http://about.me/benbostic'
+    type: external
 title: Ben Bostic
